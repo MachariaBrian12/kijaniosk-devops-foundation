@@ -8,3 +8,5 @@ PaaS is used for managed services like databases.
 
 ## Reason
 This gives flexibility while reducing operational work.
+
+The system uses PaaS because it simplifies deployment and reduces infrastructure management.

@@ -8,3 +8,5 @@ System runs in multiple availability zones.
 
 ## Benefit
 If one zone fails, another continues running.
+
+Multiple availability zones improve reliability because if one fails, the system continues running.
